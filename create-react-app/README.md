@@ -4,6 +4,9 @@
 |:---:|:---:
 `Mon Jun 13 09:56:18 CST 2022` | -
 
+### Adding Custom Environment Variables
+
+> [https://create-react-app.dev/docs/adding-custom-environment-variables](https://create-react-app.dev/docs/adding-custom-environment-variables)
 
 ## Ref
 
