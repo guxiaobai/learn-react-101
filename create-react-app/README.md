@@ -11,3 +11,5 @@
 ## Ref
 
 * [https://create-react-app.dev/](https://create-react-app.dev/)
+* [customize-cra](https://github.com/arackaf/customize-cra) - `CRA 2`
+* [react-app-rewired](https://github.com/timarney/react-app-rewired) - `CRA 1`
